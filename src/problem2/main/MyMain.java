@@ -2,7 +2,7 @@ package problem2.main;
 // executable class
 // use problem1.mybst.MyBinarySearchTree class for creating binary tree
 
-import problem2.mybst.MyBinarySearchTree;
+import problem2.main.MyBinarySearchTree;
 
 public class MyMain {
     public static void main(String[] args) {
