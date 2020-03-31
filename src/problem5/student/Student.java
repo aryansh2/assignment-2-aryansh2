@@ -24,7 +24,7 @@ public class Student {
         this.appearingCount = appearingCount;
     }
 
-    public int getRollNo() {
+    public int getRollNo(){
         return rollNo;
     }
 
